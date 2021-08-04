@@ -13,4 +13,4 @@ What is the difference between Cache and a Cookie?
       you, it might take some time to load the website. Here we can use cache to stores the site contents like the images, videos, audio, huge 
       data etc. on your computer. So the next time you load the same website you will find it loading faster.
 
-- Both cookie and cache can have an expiry time limit, depending upon ur business needs
+- Both cookie and cache can have an expiry time limit, depending upon ur business needs.
