@@ -9,7 +9,7 @@ What is the difference between Cache and a Cookie?
       related to shoes in their page how is that done. well this is where cookie comes of use.
 
 - Cache - used to store information to render the page faster.
-      For example, when you open websites with large pictures and video’s or a page with huge data that takes some time to render in front of 
+     - For example, when you open websites with large pictures and video’s or a page with huge data that takes some time to render in front of 
       you, it might take some time to load the website. Here we can use cache to stores the site contents like the images, videos, audio, huge 
       data etc. on your computer. So the next time you load the same website you will find it loading faster.
 
